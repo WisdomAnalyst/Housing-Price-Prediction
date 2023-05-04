@@ -1,7 +1,7 @@
 # Machine learning model to predict the price of a property in Lekki, Lagos based on its features. 
 
 Excluding Banana Island in Lagos, Ikoyi has the most expensive houses in Nigeria, second to Maitama District in Abuja.
-factors responsible to the prices of houses in lekki is the number of bedrooms, the less rooms, the less expensive. the more rooms, the greater the valuation.
+factors responsible for the prices of houses in lekki is the number of bedrooms, the less rooms, the less expensive. the more rooms, the greater the valuation.
 Infact, one room should cost about 21 million naira on average. The number of rooms times 20 million naira.   + or - 1 million naira will get you closer to the overall price of the house.
 Surprisingly, an apartment in a Block of Flats will cost about 17 million naira. + or - 1 million naira more than a Detached Duplex on average.
 If the house is a Semi-detached Bungalow, the price should depreciate by about 16.5 million naira. + 0r - 1.5 Million naira.  
