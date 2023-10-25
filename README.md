@@ -1,3 +1,6 @@
+
+Click on the Kaggle link above to view code.
+
 # Machine learning model to predict the price of a property in Lekki, Lagos based on its features. 
 
 Excluding Banana Island in Lagos, Ikoyi has the most expensive houses in Nigeria, Closely Followed by Maitama District in Abuja.
